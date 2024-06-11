@@ -1,0 +1,17 @@
+[33mcommit 93730f5b9e6ba07f8ecdd33375ba2dcbcbf1d6ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: gk-12 <maady9874.sa@gmail.com>
+Date:   Tue Jun 11 19:41:41 2024 +0300
+
+    edit README.md and hello_world.txt
+
+[33mcommit fb01ae290691fe98a7831dd1aeda0b64f32fd8ab[m
+Author: gk-12 <maady9874.sa@gmail.com>
+Date:   Tue Jun 11 18:37:40 2024 +0300
+
+    Add hello_world.txt
+
+[33mcommit c0dd43b0f1d1374b76b54d446d44fa0db6664953[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gk-12 <63737089+gk-12@users.noreply.github.com>
+Date:   Tue Jun 11 18:22:29 2024 +0300
+
+    Initial commit
